@@ -28,4 +28,4 @@
 5. **Verification:**
    - Once done, check if your serial numbers have changed.
 
-Good luck and be careful! 🛠️
+Good luck and be careful! 🛠️ (educational purposes only)
